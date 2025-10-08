@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <h1 align="center">❤️Laravel API🚀 Stater Kit❤️</h1>
 </p>
@@ -48,3 +49,7 @@ Admin gmail = `admin@admin.com` & password = `12345678`
 
 For User Login `http://127.0.0.1:8000/admin` <br>
 Admin gmail = `user@user.com` & password = `12345678`
+=======
+# savalogistic_backend
+https://www.savaexpress.com/
+>>>>>>> 4e72140c527cbfaf92eb50b40d28991b2802bd61
